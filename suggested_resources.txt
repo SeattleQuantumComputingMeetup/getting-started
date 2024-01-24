@@ -1,0 +1,17 @@
+For books, there are a lot of great ones out there.  
+Two of those which are free in their digital versions are - one by Thomas Wong and another by Olivier Ezratty.  
+The standard great book is by Nielsen and Chuang.  
+I also like the book for programmers by Robert Hundt.  
+Two nice books for beginners is one by Jack Hidary and a "Dummies" book by whurley et al.  
+Robert Sutor's books published by Packt are also good, like I said, there are lots of good ones out there, 
+including the one for computer scientists by Yanofsky and Mannucci and the O'Reilly book by Johnston, Harrigan et al.  
+
+For classes, there are some for "everyone" and some for programmers by UChicago on edX, 
+MIT xPro offers one for a much larger fee, and 
+IBM offers a Summer School, and you can find their past videos on YouTube.  
+
+You can search YouTube and Medium, and find LOTS of material on quantum computing.  Xanadu has some short educational videos there.  
+
+Quantum Twitter and LI also have a lot of interesting, informative posts.  
+
+You can check out conferences such as: IEEE Quantum Week, Q2B, and QIP (not exactly for beginners). 
