@@ -1,2 +1,2 @@
-# Getting_Started_With_Quantum_Computing
+# How to Get Started with Quantum Computing
 Resources for those new to quantum computing
